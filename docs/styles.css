@@ -1,6 +1,5 @@
 body {
     margin: top;
     text-align: center;
-    background-size: cover;
-    background-position: center;
+    background: red;
 }   
